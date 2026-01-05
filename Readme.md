@@ -68,3 +68,19 @@ The project follows a structured analytics workflow commonly used in real-world 
 ---
 
 ## Repository Structure
+nyc-taxi-data-analysis/
+│
+├── python/
+│   └── nyc_taxi_data_cleaning.ipynb
+│
+├── sql/
+│   └── nyc_taxi_analysis.sql
+│
+├── powerbi/
+│   └── nyc_taxi_dashboard.pbix
+│
+├── visuals/
+│   └── dashboard_screenshots.png
+│
+└── README.md
+
